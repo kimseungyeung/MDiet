@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <dimen name="smallfont">10sp</dimen>
+    <dimen name="msmallfont">14sp</dimen>
+    <dimen name="middlefont">15sp</dimen>
+    <dimen name="bigfont">20sp</dimen>
+    <dimen name="gbigfont">23sp</dimen>
+    <dimen name="bigpadding">20dip</dimen>
+    <dimen name="middlepadding">15dip</dimen>
+    <dimen name="middlebigpadding">25dip</dimen>
+    <dimen name="gbigpadding">30dip</dimen>
+    <dimen name="smallpadding">10dip</dimen>
+    <dimen name="bigsmallpadding">5dip</dimen>
+    <dimen name="spadding">5dip</dimen>
+
+    <dimen name="picturefont">40sp</dimen>
+</resources>

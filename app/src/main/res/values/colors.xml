@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="transparent">#00ff0000</color>
+    <color name="basegrey">#edecec</color>
+    <color name="basegreen">#00864b</color>
+    <color name="valuefont_black">#3a3a3a</color>
+    <color name="valuefont_grey">#878787</color>f
+    <color name="linegrey">#e4e2e2</color>
+    <color name="profilegreen">#9cc813</color>
+    <color name="rowgreen">#f5fcf9</color>
+    <color name="white">#ffffff</color>
+    <color name="namefont">#6f6f6f</color>
+    <color name="valuefont">#1f1f1f</color>
+    <color name="black">#000000</color>
+
+    <color name="nopayred">#f22c2c</color>
+    <color name="nopayorange">#f26824</color>
+    <color name="nopayyellow">#eeb01c</color>
+    <color name="nopaygreen">#12b36c</color>
+    <color name="nopayfontred">#f01b1b</color>
+    <color name="nopaycirclegrenn">#06b669</color>
+    <color name="arrowbackgrey">#b7b7b7</color>
+    <color name="ilastblue">#1f7ede</color>
+    <color name="ilastgreen">#02b466</color>
+
+    <color name="elastblue">#1f7ede</color>
+
+    <color name="popupgrey">#6f6f6f</color>
+    <color name="popupbargrey">#acacac</color>
+    <color name="popupbottomgrey">#9d9d9d</color>
+
+    <color name="filtergrey">#848484</color>
+    <color name="filterfontgrey">#8d8d8d</color>
+    <color name="homewhite">#fffefe</color>
+    <color name="homered">#ec3c3c</color>
+    <color name="homecirclered">#d81d1d</color>
+    <color name="homefontgrey">#636363</color>
+
+    <color name="bottombargrey">#263a3a3a</color>
+    <color name="leftbargrey">#26000000</color>
+    <color name="blur">#88000000</color>
+
+    <color name="tabgreen">#13bd72</color>
+    <color name="leftbarblack">#0d000000</color>
+    <color name="tabgrey">#eeeeee</color>
+    <color name="acc_re_grey">#8a8989</color>
+    <color name="value_font_80">#CC3a3a3a</color>
+    <color name="value_font_50">#803a3a3a</color>
+    <color name="value_font_60">#993a3a3a</color>
+    <color name="value_font_99">#FC3a3a3a</color>
+    <color name="white_80">#CCffffff</color>
+
+    <color name="taskgrey">#8e8e8e</color>
+    <color name="blue_20">#331f7ede</color>
+
+    <color name="sel_grey">#626262</color>
+    <color name="black_10">#1A000000</color>
+    <color name="black_5">#0D000000</color>
+    <color name="blue_85">#D95f9bd8</color>
+    <color name="edms_grey">#878787</color>
+</resources>
